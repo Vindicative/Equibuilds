@@ -1,4 +1,4 @@
-// Equicord f5270af
+// Equicord c75d9fe
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
