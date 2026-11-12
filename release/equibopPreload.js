@@ -1,4 +1,4 @@
-// Equicord 5756acd
+// Equicord f5270af
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
